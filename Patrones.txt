@@ -1,0 +1,19 @@
+"https://ddtech.mx/productos/consumibles/cintas"
+
+Categorías: // Line 175 : <i class="icon fa fa-align-justify fa-fw"></i> Categorias
+- Accesorios // Line 180 to 272
+- Audio // Line 280 to 314
+- Computadoras // Line 322 to 342
+- Componentes // Line 350 to 414
+- Consumibles // Line 422 to 
+- Almacenamiento
+- Electronica de consumo
+- Impresion
+- Software
+- Monitores
+- Celulares
+- Redes
+- Pride
+- Apple
+- Energía
+

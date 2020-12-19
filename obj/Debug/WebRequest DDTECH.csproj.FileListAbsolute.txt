@@ -1,0 +1,10 @@
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\bin\Debug\WebRequest DDTECH.exe.config
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\bin\Debug\WebRequest DDTECH.exe
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\bin\Debug\WebRequest DDTECH.pdb
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\obj\Debug\WebRequest DDTECH.csprojAssemblyReference.cache
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\obj\Debug\WebRequest_DDTECH.Form1.resources
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\obj\Debug\WebRequest_DDTECH.Properties.Resources.resources
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\obj\Debug\WebRequest DDTECH.csproj.GenerateResource.cache
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\obj\Debug\WebRequest DDTECH.csproj.CoreCompileInputs.cache
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\obj\Debug\WebRequest DDTECH.exe
+F:\UASLP\UASLP 2020 - II\Interfaces Gráficas con Aplicaciones\3er Parcial\Repository\WebRequest DDTECH\obj\Debug\WebRequest DDTECH.pdb
